@@ -1,0 +1,27 @@
+
+@media (max-width: 500px) {
+    img {
+        border: 5px solid gold;
+        border-radius: 50px;
+        overflow: hidden;
+    }
+    
+}
+@media (min-width:501) and (max-width: 850px) {
+    img {
+    }
+    
+}
+@media (min-width:851) and (max-width: 1200px) {
+    img {
+       
+    }
+    
+}
+@media (min-width: 1201px) {
+    img {
+        border: 5px solid gold;
+        overflow: hidden;
+    }
+    
+}
